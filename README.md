@@ -1,1 +1,1 @@
-switches the current user to the user betty
+Task 0 swtches the current user to betty
